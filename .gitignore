@@ -1,0 +1,6 @@
+logs/
+static/
+venv/
+mlruns/
+ml_ops.egg-info/
+.idea/
